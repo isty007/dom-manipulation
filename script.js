@@ -26,5 +26,9 @@ function changeBGcolor(event){
 	}		
 }
 
+// Taskk 2c
+function redirectToGoogle(){
+    window.location.assign('https://www.google.com/')
+}
 
 /* Task 4 using jQery */
